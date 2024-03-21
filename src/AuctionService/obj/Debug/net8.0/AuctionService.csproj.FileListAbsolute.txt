@@ -112,3 +112,10 @@
 /Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.AssemblyReference.cache
 /Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/obj/Debug/net8.0/AuctionService.csproj.CopyComplete
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/MassTransit.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/MassTransit.Abstractions.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/MassTransit.RabbitMqTransport.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Contracts.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Contracts.pdb
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll
