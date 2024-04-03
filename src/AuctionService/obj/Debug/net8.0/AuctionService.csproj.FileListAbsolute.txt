@@ -119,3 +119,11 @@
 /Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Contracts.dll
 /Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Contracts.pdb
 /Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/MassTransit.EntityFrameworkCoreIntegration.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/SSD/Computer/Projects/Web/NextJs/Carsties/carsties-api/src/AuctionService/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
